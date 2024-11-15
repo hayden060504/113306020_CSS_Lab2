@@ -1,0 +1,56 @@
+p {
+    color: #333;
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+}
+
+h1
+{
+    background-color: black;
+    color: white;
+}
+
+ul
+
+.content
+{
+    background-color: skyblue;
+}
+
+.navbar {
+    background-color: red;
+    top: ;
+    width: 2000;
+}
+
+.navbar li {
+    display: inline-block;
+    color: white;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #333;
+}
+
+@media all
+{
+    body
+    {
+        font-size: 1 em;
+    }
+}
+
+@media print
+{
+    body
+    {
+        color: black;
+        background-color: white;
+    }
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
